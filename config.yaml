@@ -1,0 +1,55 @@
+baseURL: "https://kelindar.onrender.com/"
+languageCode: "en-us"
+title: "rpc.io"
+theme: "hugo-PaperMod"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  showReadingTime: true
+  showShareButtons: true
+  comments: true
+  defaultTheme: auto
+  disableThemeToggle: true
+  disableSpecial1stPost: false
+  ShowToc: true
+  TocOpen: true
+
+  label:
+    text: "blog"
+    icon: /roman.jpg
+    iconHeight: 35
+
+  homeInfoParams:
+    title: About Me
+    content: |
+      Hi there, my name is Roman! I'm a software engineer, having contributed some code
+      at various companies across different continents including [Grab](https://grab.com), 
+      [AirAsia](https://airasia.com), [CERN](https://home.cern/) or [IBM Research](https://www.research.ibm.com/).
+      This blog contains a variety of articles and ideas I've explored over my career and other random experiences.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/kel_"
+    - name: github
+      url: "https://github.com/kelindar"
+
+  profileMode:
+    enabled: true
+    title: "Roman Atachiants" # optional default will be site title
+    imageUrl: /roman.jpg
+    imageTitle: "Roman Atachiants"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Posts
+        url: "/posts"
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/kelindar"
