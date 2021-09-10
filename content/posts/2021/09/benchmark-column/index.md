@@ -1,6 +1,6 @@
 ---
 title: Benchmarking Columnar Store Concurrency
-date: 2021-09-10 23:00:00
+date: 2021-09-09 23:00:00
 author: "Roman Atachiants"
 categories: [Engineering]
 tags: [Databases, Columnar, Benchmarking]
