@@ -6,7 +6,7 @@ categories: [Engineering]
 tags: [Databases, Columnar, Benchmarking]
 comments: true
 cover:
-  image: img/100-0.png
+  image: img/cover.jpg
 excerpt: "Building a key-value store using kelindar/column and only bitmaps"
 ---
 
