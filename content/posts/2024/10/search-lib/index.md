@@ -1,6 +1,6 @@
 ---
 title: Building a Faster, Leaner Vector Search Library in Go
-date: 2021-09-09 23:00:00
+date: 2024-10-23 23:00:00
 author: "Roman Atachiants"
 categories: [Engineering]
 tags:
