@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "rpc.io"
 theme: "hugo-PaperMod"
 enableRobotsTXT: true
+googleAnalytics: G-HDDJMLXQSC
 buildDrafts: false
 buildFuture: false
 buildExpired: false
